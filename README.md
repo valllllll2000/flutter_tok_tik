@@ -2,6 +2,20 @@
 
 Flutter app written during a Udemy course.
 
+Create an `assets/videos` folder
+Download 8 videos from here: https://www.pexels.com/search/videos/vertical/
+Videos should be placed inside `assets/videos` folder and named as such:
+```
+1.mp4
+2.mp4
+3.mp4
+4.mp4
+5.mp4
+6.mp4
+7.mp4
+8.mp4
+```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
