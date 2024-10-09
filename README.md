@@ -1,6 +1,7 @@
 # tok_tik
 
-Flutter app written during a Udemy course.
+Flutter app written during this Udemy course:
+https://fernando-herrera.com/course/flutter-cero-experto
 
 Create an `assets/videos` folder
 Download 8 videos from here: https://www.pexels.com/search/videos/vertical/
